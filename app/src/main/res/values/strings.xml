@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diamond Monkey Puzzle</string>
+    <string name="shuffle">Sort</string>
+    <string name="facebook_app_id">258877805901400</string>
+    <string name="fb_login_protocol_scheme">fb258877805901400</string>
+    <string name="reset">Result</string>
+</resources>

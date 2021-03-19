@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005274522469",
+    "project_id": "cherry-diamond",
+    "storage_bucket": "cherry-diamond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005274522469:android:9a836301cc23cd0e1b378c",
+        "android_client_info": {
+          "package_name": "com.CherryFS.DiamondDi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005274522469-idiocid2mcav0dm5ce9oqhmtpg2vagbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATzOrSMbTwfMwuSlSJFH3byInjZcGjWe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005274522469-idiocid2mcav0dm5ce9oqhmtpg2vagbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
